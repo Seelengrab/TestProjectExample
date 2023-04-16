@@ -1,0 +1,7 @@
+name = "Example"
+uuid = "b0ef767f-d5a8-4b7e-854a-bbb2af9e9188"
+authors = ["Sukera <Seelengrab@users.noreply.github.com>"]
+version = "0.1.0"
+
+[deps]
+SparseArrays = "2f01184e-e22b-5df5-ae63-d93ebab69eaf"
